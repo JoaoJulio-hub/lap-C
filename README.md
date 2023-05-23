@@ -1,2 +1,4 @@
 # lap-C
-Linker simulator using C (watchout for some weird logic)
+Linker simulator project using C
+<br>
+Course: Programming Languages and Environments
